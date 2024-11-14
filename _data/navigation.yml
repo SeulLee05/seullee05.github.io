@@ -3,8 +3,8 @@
 main:
   - title: "About"
     url: /
-  - title: "Projects"
-    url: /projects/
+  # - title: "Projects"
+  #   url: /projects/
   - title: "CV"
     url: assets/cv.pdf
   - title: "Google Scholar"
