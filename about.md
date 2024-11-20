@@ -39,14 +39,14 @@ Research topic: Docking-optimized molecule generation using RL
 * **Molecule Generation with Fragment Retrieval Augmentation**<br>
 **Seul Lee**, Karsten Kreis, Srimukh Prasad Veccham, Meng Liu, Danny Reidenbach,<br>
 Saee Paliwal, Arash Vahdat<sup>†</sup>, and Weili Nie<sup>†</sup> (†: equal advising)<br>
-<span style="color:navy">**NeurIPS**</span>, 2024. \[[<span style="color:teal">project page</span>](https://f-rag.github.io)\]<br>
+<span style="color:navy">**NeurIPS**</span>, 2024. \[[<span style="color:teal">paper</span>](https://arxiv.org/abs/2411.12078)\]\[[<span style="color:teal">project page</span>](https://f-rag.github.io)\]
 * **READRetro: Natural Product Biosynthesis Planning with
 <br>Retrieval-Augmented Dual-View Retrosynthesis**<br>
 **Seul Lee\***, Taein Kim\*, Min-Soo Choi, Yejin Kwak, Jeongbin Park, Sung Ju Hwang, and Sang-Gyu Kim<br>
 <span style="color:navy">**New Phytologist**</span>, 2024. \[[<span style="color:teal">paper</span>](https://www.biorxiv.org/content/10.1101/2023.03.21.533616v1)\]\[[<span style="color:teal">code</span>](https://github.com/SeulLee05/READRetro)\]\[[<span style="color:teal">web</span>](https://readretro.net)\]
 * **Drug Discovery with Dynamic Goal-aware Fragments**<br>
 **Seul Lee**, Seanie Lee, Kenji Kawaguchi, and Sung Ju Hwang<br>
-<span style="color:navy">**ICML**</span>, 2024. \[[<span style="color:teal">paper</span>](https://arxiv.org/abs/2310.00841)\]<br>
+<span style="color:navy">**ICML**</span>, 2024. \[[<span style="color:teal">paper</span>](https://arxiv.org/abs/2310.00841)\]\[[<span style="color:teal">code</span>](https://github.com/SeulLee05/GEAM)\]<br>
 <span style="color:navy">**ICLR Machine Learning for Genomics Explorations Workshop (Spotlight)**</span>, 2024.
 * **Protein Representation Learning by Capturing Protein Sequence-Structure-Function Relationship**<br>
 Eunji Ko\*, **Seul Lee\***, Minseon Kim\*, Dongki Kim, and Sung Ju Hwang<br>
