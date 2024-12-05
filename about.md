@@ -76,10 +76,11 @@ Soojung Yang, Doyeong Hwang, **Seul Lee**, Seongok Ryu, and Sung Ju Hwang<br>
 
 ### Awards and Honors
 ***
+* NVIDIA Graduate Fellowship, 2025-2026.
 * KAIST *Summa Cum Laude*, Aug. 2019.
 * KAIST Dean's List (College of Engineering), Aug. 2018.
 * KAIST Dean's List (College of Engineering), Feb. 2018.
-* Boeing Undergraduate Scholarship, Feb. 2018 ~ Aug. 2019.
-* KAIST Presidential Fellowship (KPF), Mar. 2017 ~ Aug. 2019.
+* Boeing Undergraduate Scholarship, 2018-2019.
+* KAIST Presidential Fellowship (KPF), 2017-2019.
 * KAIST Dean's List (College of Life Science & Bioengineering), Feb. 2017.
-* National Science and Engineering Undergraduate Scholarship, Mar. 2015 ~ Feb. 2019.
+* National Science and Engineering Undergraduate Scholarship, 2015-2019.
