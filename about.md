@@ -13,22 +13,22 @@ I'm a Ph.D. student in the [<span style="color:teal">Machine Learning and Artifi
 ### Education
 ***
 * Ph.D. student, Graduate School of AI<br>
-KAIST, Sep. 2022 ~ present.
+KAIST, Sep. 2022 - present.
 * M.S., Graduate School of AI<br>
-KAIST, Mar. 2021 ~ Aug. 2022.
+KAIST, Mar. 2021 - Aug. 2022.
 * B.S., Aerospace Engineering / Biological Sciences (Double Major)<br>
-KAIST, Mar. 2015 ~ Aug. 2019.
+KAIST, Mar. 2015 - Aug. 2019.
 
 <br>
 
 ### Research Experience
 ***
 * **Research Intern**, <span style="color:navy">**NVIDIA**</span><br>
-Feb. 2024 ~ Jun. 2025, Santa Clara, CA, US<br>
+Feb. 2024 - Jun. 2025, Santa Clara, CA, US<br>
 Research topic: Generative AI for science<br>
 Mentors: [<span style="color:teal">Weili Nie</span>](https://weilinie.github.io), [<span style="color:teal">Karsten Kreis</span>](https://karstenkreis.github.io), and [<span style="color:teal">Arash Vahdat</span>](http://latentspace.cc)
 * **Research Intern**, <span style="color:navy">**AITRICS**</span><br>
-Jan. 2021 ~ Feb. 2021, South Korea<br>
+Jan. 2021 - Feb. 2021, South Korea<br>
 Research topic: Docking-optimized molecule generation using RL
 
 <br>
