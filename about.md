@@ -6,7 +6,7 @@ permalink: /
 
 ### About Me
 ***
-I'm a Ph.D. student in the [<span style="color:teal">Machine Learning and Artificial Intelligence (MLAI)</span>](https://www.mlai-kaist.com) lab at KAIST, under the supervision of Prof. Sung Ju Hwang. I'm also working as a research intern in the [<span style="color:teal">NVIDIA Fundamental Generative AI Research (GenAIR)</span>](https://research.nvidia.com/labs/genair/) team. My research interests include *AI for science* and *generative models*. My email/DM are always open to anyone interested in discussion/collaboration!
+I'm a Ph.D. student in the [<span style="color:teal">Machine Learning and Artificial Intelligence (MLAI)</span>](https://www.mlai-kaist.com) lab at KAIST, under the supervision of Prof. Sung Ju Hwang. I'm also working as a research intern in the [<span style="color:teal">NVIDIA Fundamental Generative AI Research (GenAIR)</span>](https://research.nvidia.com/labs/genair/) team. My research interests include *AI for science* and *generative models*. ☕️ My email/DM are always open to anyone interested in discussion/collaboration!
 
 <br>
 
