@@ -76,7 +76,7 @@ Soojung Yang, Doyeong Hwang, **Seul Lee**, Seongok Ryu, and Sung Ju Hwang<br>
 
 ### Awards and Honors
 ***
-* NVIDIA Graduate Fellowship, 2025-2026.
+* [<span style="color:teal">NVIDIA Graduate Fellowship</span>](https://research.nvidia.com/graduate-fellowships), 2025-2026.
 * KAIST *Summa Cum Laude*, Aug. 2019.
 * KAIST Dean's List (College of Engineering), Aug. 2018.
 * KAIST Dean's List (College of Engineering), Feb. 2018.
