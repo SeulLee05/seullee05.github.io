@@ -6,7 +6,7 @@ permalink: /
 
 ### About Me
 ***
-I'm a 3rd-year Ph.D. student in the [<span style="color:teal">Machine Learning and Artificial Intelligence (MLAI)</span>](https://www.mlai-kaist.com) lab at KAIST, under the supervision of Prof. Sung Ju Hwang. I'm also working as a research intern in the [<span style="color:teal">NVIDIA Fundamental Generative AI Research (GenAIR)</span>](https://research.nvidia.com/labs/genair) team. I am fortunate to be a recipient of the [<span style="color:teal">NVIDIA Graduate Fellowship</span>](https://research.nvidia.com/graduate-fellowships). My research interests include *AI for science* and *generative models*.<br><br>
+I'm a 3rd-year Ph.D. student in the [<span style="color:teal">Machine Learning and Artificial Intelligence (MLAI)</span>](https://www.mlai-kaist.com) lab at KAIST, under the supervision of Prof. Sung Ju Hwang. I'm also working as a research intern in the [<span style="color:teal">NVIDIA Fundamental Generative AI Research (GenAIR)</span>](https://research.nvidia.com/labs/genair) team. I am fortunate to be a recipient of the [<span style="color:teal">NVIDIA Graduate Fellowship</span>](https://blogs.nvidia.com/blog/graduate-fellowship-recipients-2025-2026). My research interests include *AI for science* and *generative models*.<br><br>
 ☕️ My email/DM are always open to anyone interested in discussion/collaboration!
 
 <br>
@@ -77,7 +77,7 @@ Soojung Yang, Doyeong Hwang, **Seul Lee**, Seongok Ryu, and Sung Ju Hwang<br>
 
 ### Awards and Honors
 ***
-* [<span style="color:teal">NVIDIA Graduate Fellowship</span>](https://research.nvidia.com/graduate-fellowships), 2025-2026.
+* [<span style="color:teal">NVIDIA Graduate Fellowship</span>](https://blogs.nvidia.com/blog/graduate-fellowship-recipients-2025-2026), 2025-2026.
 * KAIST *Summa Cum Laude*, Aug. 2019.
 * KAIST Dean's List (College of Engineering), Aug. 2018.
 * KAIST Dean's List (College of Engineering), Feb. 2018.
