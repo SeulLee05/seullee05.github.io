@@ -44,7 +44,7 @@ Yuxing Peng, Saee Paliwal, Weili Nie<sup>†</sup>, and Arash Vahdat<sup>†</su
 * **Molecule Generation with Fragment Retrieval Augmentation**<br>
 **Seul Lee**, Karsten Kreis, Srimukh Prasad Veccham, Meng Liu, Danny Reidenbach,<br>
 Saee Paliwal, Arash Vahdat<sup>†</sup>, and Weili Nie<sup>†</sup> (†: equal advising)<br>
-<span style="color:navy">**NeurIPS**</span>, 2024. \[[<span style="color:teal">paper</span>](https://arxiv.org/abs/2411.12078)\]\[[<span style="color:teal">project page</span>](https://f-rag.github.io)\]
+<span style="color:navy">**NeurIPS**</span>, 2024. \[[<span style="color:teal">paper</span>](https://arxiv.org/abs/2411.12078)\]\[[<span style="color:teal">code</span>](https://github.com/NVlabs/f-RAG)\]\[[<span style="color:teal">project page</span>](https://f-rag.github.io)\]
 * **READRetro: Natural Product Biosynthesis Planning with
 <br>Retrieval-Augmented Dual-View Retrosynthesis**<br>
 **Seul Lee\***, Taein Kim\*, Min-Soo Choi, Yejin Kwak, Jeongbin Park, Sung Ju Hwang, and Sang-Gyu Kim<br>
