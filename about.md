@@ -40,7 +40,7 @@ Research topic: Docking-optimized molecule generation using RL
 * **GenMol: A Drug Discovery Generalist with Discrete Diffusion**<br>
 **Seul Lee**, Karsten Kreis, Srimukh Prasad Veccham, Meng Liu, Danny Reidenbach,<br>
 Yuxing Peng, Saee Paliwal, Weili Nie<sup>†</sup>, and Arash Vahdat<sup>†</sup> (†: equal advising)<br>
-<span style="color:navy">**arXiv**</span>, 2025. \[[<span style="color:teal">paper</span>](https://arxiv.org/abs/2501.06158)\]
+<span style="color:navy">**ICML**</span>, 2025. \[[<span style="color:teal">paper</span>](https://arxiv.org/abs/2501.06158)\]
 * **Molecule Generation with Fragment Retrieval Augmentation**<br>
 **Seul Lee**, Karsten Kreis, Srimukh Prasad Veccham, Meng Liu, Danny Reidenbach,<br>
 Saee Paliwal, Arash Vahdat<sup>†</sup>, and Weili Nie<sup>†</sup> (†: equal advising)<br>
