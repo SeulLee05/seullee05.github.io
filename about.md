@@ -1,6 +1,6 @@
 ---
 layout: about
-title: Seul Lee 이슬
+title: Seul Lee
 permalink: /
 ---
 
