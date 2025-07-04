@@ -6,8 +6,8 @@ permalink: /
 
 ### About Me
 ***
-I'm a 3rd-year Ph.D. student in the [<span style="color:teal">Machine Learning and Artificial Intelligence (MLAI)</span>](https://www.mlai-kaist.com) lab at KAIST, under the supervision of [<span style="color:teal">Prof. Sung Ju Hwang</span>](http://www.sungjuhwang.com). I'm also working as a research intern in the [<span style="color:teal">NVIDIA Fundamental Generative AI Research (GenAIR)</span>](https://research.nvidia.com/labs/genair) team. I am fortunate to be a recipient of the [<span style="color:teal">NVIDIA Graduate Fellowship</span>](https://research.nvidia.com/graduate-fellowships/2025). My research interests include *AI for science* and *generative models*.<br><br>
-☕️ My email/DM are always open to anyone interested in discussion/collaboration!
+I'm a 4th-year Ph.D. student in the [<span style="color:teal">Machine Learning and Artificial Intelligence (MLAI)</span>](https://www.mlai-kaist.com) lab at KAIST, under the supervision of [<span style="color:teal">Prof. Sung Ju Hwang</span>](http://www.sungjuhwang.com). I'm also working as a research intern in the [<span style="color:teal">NVIDIA Fundamental Generative AI Research (GenAIR)</span>](https://research.nvidia.com/labs/genair) team. I am fortunate to be a recipient of the [<span style="color:teal">NVIDIA Graduate Fellowship</span>](https://research.nvidia.com/graduate-fellowships/2025). My research interests include *AI for science* and *generative models*.<br><br>
+☕️ My email/DM are always open to anyone interested in discussion/collaboration. I'm particularly interested in the visibility of women in the field and would love to discuss research ideas or future plans!
 
 <br>
 
