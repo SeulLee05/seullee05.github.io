@@ -40,7 +40,7 @@ Research topic: Docking-optimized molecule generation using RL
 * **Rethinking Molecule Synthesizability with Chain-of-Reaction**<br>
 **Seul Lee**, Karsten Kreis, Srimukh Prasad Veccham, Meng Liu, Danny Reidenbach,<br>
 Saee Paliwal, Weili Nie, and Arash Vahdat<br>
-<span style="color:navy">**Under Review**</span>, 2025.
+<span style="color:navy">**Under Review**</span>, 2025. \[[<span style="color:teal">paper</span>](https://arxiv.org/abs/2509.16084)\]\[[<span style="color:teal">code</span>](https://github.com/NVIDIA-Digital-Bio/ReaSyn)\]
 * **GenMol: A Drug Discovery Generalist with Discrete Diffusion**<br>
 **Seul Lee**, Karsten Kreis, Srimukh Prasad Veccham, Meng Liu, Danny Reidenbach,<br>
 Yuxing Peng, Saee Paliwal, Weili Nie<sup>†</sup>, and Arash Vahdat<sup>†</sup> (†: equal advising)<br>
