@@ -39,7 +39,7 @@ Research topic: Docking-optimized molecule generation using RL
 \*: equal contribution
 * **Synthon Contrastive Learning for Synthesizable 3D Molecule Generation**<br>
 Nahyun Kim\*, **Seul Lee\***, and Sung Ju Hwang<br>
-<span style="color:navy">**ICML Generative and Agentic AI for Biology Workshop**</span>, 2024. \[[<span style="color:teal">paper</span>](https://openreview.net/forum?id=sr9CCs1d5m)\]<br>
+<span style="color:navy">**ICML Generative and Agentic AI for Biology Workshop**</span>, 2026. \[[<span style="color:teal">paper</span>](https://openreview.net/forum?id=sr9CCs1d5m)\]<br>
 * **Exploring Synthesizable Chemical Space with Iterative Pathway Refinements**<br>
 **Seul Lee**, Karsten Kreis, Srimukh Prasad Veccham, Meng Liu, Danny Reidenbach,<br>
 Saee Paliwal, Weili Nie<sup>†</sup>, and Arash Vahdat<sup>†</sup> (†: equal advising)<br>
